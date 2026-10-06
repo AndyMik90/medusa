@@ -1,5 +1,23 @@
 # @medusajs/draft-order
 
+## 2.22.0
+
+### Minor Changes
+
+- [#17089](https://github.com/medusajs/medusa/pull/17089) [`d249d29ddef76d0bde0b68899b9fe5f9faa1ef6a`](https://github.com/medusajs/medusa/commit/d249d29ddef76d0bde0b68899b9fe5f9faa1ef6a) Thanks [@shahednasser](https://github.com/shahednasser)! - chore: drop Node.js 20 support and require Node.js v22.22.0 or later
+
+### Patch Changes
+
+- Updated dependencies [[`d249d29ddef76d0bde0b68899b9fe5f9faa1ef6a`](https://github.com/medusajs/medusa/commit/d249d29ddef76d0bde0b68899b9fe5f9faa1ef6a), [`a49dd4d78fdfad0bba8708bc3ef78e1aaae79123`](https://github.com/medusajs/medusa/commit/a49dd4d78fdfad0bba8708bc3ef78e1aaae79123), [`7906936a5f360acee5f0b8790919e959c7e4a2eb`](https://github.com/medusajs/medusa/commit/7906936a5f360acee5f0b8790919e959c7e4a2eb), [`14499a2e9309d653c0e4ec6aec3f88079751b4d2`](https://github.com/medusajs/medusa/commit/14499a2e9309d653c0e4ec6aec3f88079751b4d2), [`d5e01f88a32961fda4550bf54b6014ce4e5a64ba`](https://github.com/medusajs/medusa/commit/d5e01f88a32961fda4550bf54b6014ce4e5a64ba)]:
+  - @medusajs/cli@2.22.0
+  - @medusajs/dashboard@2.22.0
+  - @medusajs/framework@2.22.0
+  - @medusajs/js-sdk@2.22.0
+  - @medusajs/test-utils@2.22.0
+  - @medusajs/admin-sdk@2.22.0
+  - @medusajs/icons@2.22.0
+  - @medusajs/ui@4.2.7
+
 ## 2.21.2
 
 ### Patch Changes
